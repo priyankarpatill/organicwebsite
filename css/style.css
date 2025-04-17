@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #34AD54;
+    --primary: olivedrab;
     --secondary: #FF9933;
     --light: #F6FFF2;
     --dark: #263A4F;
@@ -283,7 +283,7 @@
 }
 
 .bg-footer {
-    background: linear-gradient(rgba(52, 173, 84, .7), rgba(52, 173, 84, .7)), url(../img/footer.png) center bottom no-repeat;
+    background: linear-gradient(olivedrab, olivedrab), url(../img/footer.png) center bottom no-repeat;
     background-size: contain;
 }
 
